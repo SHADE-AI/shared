@@ -41,12 +41,11 @@ Target situation, personality, level of stress, time for target to make a decisi
 
 ## SOME LITERATURE
 
- 
+
 
 Caveat: this is stuff I have found useful and is only a part of a vast literature.
 
-1. Reed Berkowitz, "A Game Designer's Analysis of QAnon". September 2020, 
-https://medium.com/curiouser institute/a-game-designers-analysis-of-qanon-580972548be5
+1. Reed Berkowitz, ["A Game Designer's Analysis of QAnon"](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5). September 2020.
 2. Edward Bernays,  “Propaganda”, 1928
 3. Anthony Cave Brown, “Bodyguard of Lies” (two volumes), Harper & Row 1975
 4. Donald Daniel & Katherine Herbig (Eds), “Strategic Military Deception”, Pergamon Press 1981
